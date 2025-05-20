@@ -1,0 +1,201 @@
+City,Date_Actual,Temp_Actual,Humidity_Actual,Condition_Actual,Date_Forecast,Temp_Forecast,Humidity_Forecast,Condition_Forecast,Temp_Diff,Humidity_Diff,Condition_Match
+New York,2025-05-01,14.5,56,Cloudy,2025-05-01,14.5,56,Cloudy,0.0,0,True
+London,2025-05-01,20.1,60,Overcast,2025-05-01,20.1,60,Overcast,0.0,0,True
+Mumbai,2025-05-01,29.8,66,Sunny,2025-05-01,29.8,66,Sunny,0.0,0,True
+Tokyo,2025-05-01,17.4,63,Cloudy,2025-05-01,17.4,63,Cloudy,0.0,0,True
+Sydney,2025-05-01,16.1,68,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.0,0,True
+Paris,2025-05-01,21.7,57,Overcast,2025-05-01,21.7,57,Overcast,0.0,0,True
+Toronto,2025-05-01,6.9,83,Moderate or heavy rain shower,2025-05-01,6.9,83,Moderate or heavy rain shower,0.0,0,True
+Cape Town,2025-05-01,13.6,65,Moderate or heavy rain shower,2025-05-01,13.6,65,Moderate or heavy rain shower,0.0,0,True
+Dubai,2025-05-01,31.4,42,Sunny,2025-05-01,31.4,42,Sunny,0.0,0,True
+Singapore,2025-05-01,27.7,76,Heavy rain at times,2025-05-01,27.7,76,Heavy rain at times,0.0,0,True
+New York,2025-05-02,20.5,77,Overcast,2025-05-01,14.5,56,Cloudy,6.0,21,False
+London,2025-05-02,18.7,66,Patchy rain possible,2025-05-01,20.1,60,Overcast,-1.4000000000000021,6,False
+Mumbai,2025-05-02,30.0,62,Sunny,2025-05-01,29.8,66,Sunny,0.1999999999999993,-4,True
+Tokyo,2025-05-02,16.4,81,Moderate or heavy rain shower,2025-05-01,17.4,63,Cloudy,-1.0,18,False
+Sydney,2025-05-02,16.7,69,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.5999999999999979,1,True
+Paris,2025-05-02,22.1,55,Partly cloudy,2025-05-01,21.7,57,Overcast,0.40000000000000213,-2,False
+Toronto,2025-05-02,13.5,79,Overcast,2025-05-01,6.9,83,Moderate or heavy rain shower,6.6,-4,False
+Cape Town,2025-05-02,13.0,60,Overcast,2025-05-01,13.6,65,Moderate or heavy rain shower,-0.5999999999999996,-5,False
+Dubai,2025-05-02,31.1,53,Sunny,2025-05-01,31.4,42,Sunny,-0.29999999999999716,11,True
+Singapore,2025-05-02,28.2,75,Heavy rain at times,2025-05-01,27.7,76,Heavy rain at times,0.5,-1,True
+New York,2025-05-03,21.3,80,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,6.800000000000001,24,False
+London,2025-05-03,14.4,63,Overcast,2025-05-01,20.1,60,Overcast,-5.700000000000001,3,True
+Mumbai,2025-05-03,29.7,65,Sunny,2025-05-01,29.8,66,Sunny,-0.10000000000000142,-1,True
+Tokyo,2025-05-03,17.3,64,Partly cloudy,2025-05-01,17.4,63,Cloudy,-0.09999999999999787,1,False
+Sydney,2025-05-03,16.9,66,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.7999999999999972,-2,True
+Paris,2025-05-03,19.1,70,Moderate or heavy rain shower,2025-05-01,21.7,57,Overcast,-2.599999999999998,13,False
+Toronto,2025-05-03,8.7,72,Patchy rain possible,2025-05-01,6.9,83,Moderate or heavy rain shower,1.799999999999999,-11,False
+Cape Town,2025-05-03,14.6,53,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,1.0,-12,False
+Dubai,2025-05-03,30.8,56,Partly cloudy,2025-05-01,31.4,42,Sunny,-0.5999999999999979,14,False
+Singapore,2025-05-03,27.8,76,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,0.10000000000000142,0,False
+New York,2025-05-04,17.1,88,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,2.6000000000000014,32,False
+London,2025-05-04,9.2,64,Overcast,2025-05-01,20.1,60,Overcast,-10.900000000000002,4,True
+Mumbai,2025-05-04,29.6,67,Partly cloudy,2025-05-01,29.8,66,Sunny,-0.1999999999999993,1,False
+Tokyo,2025-05-04,17.9,58,Moderate rain at times,2025-05-01,17.4,63,Cloudy,0.5,-5,False
+Sydney,2025-05-04,16.6,69,Sunny,2025-05-01,16.1,68,Patchy rain possible,0.5,1,False
+Paris,2025-05-04,11.7,61,Patchy rain possible,2025-05-01,21.7,57,Overcast,-10.0,4,False
+Toronto,2025-05-04,8.8,77,Patchy rain possible,2025-05-01,6.9,83,Moderate or heavy rain shower,1.9000000000000004,-6,False
+Cape Town,2025-05-04,15.1,35,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,1.5,-30,False
+Dubai,2025-05-04,32.2,47,Sunny,2025-05-01,31.4,42,Sunny,0.8000000000000043,5,True
+Singapore,2025-05-04,28.0,75,Patchy rain possible,2025-05-01,27.7,76,Heavy rain at times,0.3000000000000007,-1,False
+New York,2025-05-05,14.8,95,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,0.3000000000000007,39,False
+London,2025-05-05,8.8,66,Patchy rain possible,2025-05-01,20.1,60,Overcast,-11.3,6,False
+Mumbai,2025-05-05,29.6,69,Partly cloudy,2025-05-01,29.8,66,Sunny,-0.1999999999999993,3,False
+Tokyo,2025-05-05,17.5,52,Cloudy,2025-05-01,17.4,63,Cloudy,0.10000000000000142,-11,True
+Sydney,2025-05-05,18.4,76,Overcast,2025-05-01,16.1,68,Patchy rain possible,2.299999999999997,8,False
+Paris,2025-05-05,10.4,57,Overcast,2025-05-01,21.7,57,Overcast,-11.299999999999999,0,True
+Toronto,2025-05-05,12.6,67,Moderate or heavy rain shower,2025-05-01,6.9,83,Moderate or heavy rain shower,5.699999999999999,-16,True
+Cape Town,2025-05-05,16.1,49,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,2.5000000000000018,-16,False
+Dubai,2025-05-05,32.2,40,Overcast,2025-05-01,31.4,42,Sunny,0.8000000000000043,-2,False
+Singapore,2025-05-05,27.8,79,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,0.10000000000000142,3,False
+New York,2025-05-06,15.2,97,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,0.6999999999999993,41,False
+London,2025-05-06,9.7,64,Patchy rain possible,2025-05-01,20.1,60,Overcast,-10.400000000000002,4,False
+Mumbai,2025-05-06,29.0,69,Moderate or heavy rain shower,2025-05-01,29.8,66,Sunny,-0.8000000000000007,3,False
+Tokyo,2025-05-06,15.3,70,Moderate or heavy rain shower,2025-05-01,17.4,63,Cloudy,-2.099999999999998,7,False
+Sydney,2025-05-06,18.7,72,Sunny,2025-05-01,16.1,68,Patchy rain possible,2.599999999999998,4,False
+Paris,2025-05-06,11.8,55,Overcast,2025-05-01,21.7,57,Overcast,-9.899999999999999,-2,True
+Toronto,2025-05-06,12.2,89,Patchy rain possible,2025-05-01,6.9,83,Moderate or heavy rain shower,5.299999999999999,6,False
+Cape Town,2025-05-06,16.4,78,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,2.799999999999999,13,False
+Dubai,2025-05-06,30.9,65,Sunny,2025-05-01,31.4,42,Sunny,-0.5,23,True
+Singapore,2025-05-06,28.9,74,Patchy rain possible,2025-05-01,27.7,76,Heavy rain at times,1.1999999999999993,-2,False
+New York,2025-05-07,16.6,86,Patchy rain possible,2025-05-01,14.5,56,Cloudy,2.1000000000000014,30,False
+London,2025-05-07,11.0,65,Overcast,2025-05-01,20.1,60,Overcast,-9.100000000000001,5,True
+Mumbai,2025-05-07,28.7,70,Heavy rain at times,2025-05-01,29.8,66,Sunny,-1.1000000000000014,4,False
+Tokyo,2025-05-07,17.7,63,Overcast,2025-05-01,17.4,63,Cloudy,0.3000000000000007,0,False
+Sydney,2025-05-07,19.4,60,Sunny,2025-05-01,16.1,68,Patchy rain possible,3.299999999999997,-8,False
+Paris,2025-05-07,12.0,64,Patchy rain possible,2025-05-01,21.7,57,Overcast,-9.7,7,False
+Toronto,2025-05-07,14.1,85,Patchy rain possible,2025-05-01,6.9,83,Moderate or heavy rain shower,7.199999999999999,2,False
+Cape Town,2025-05-07,15.8,80,Partly cloudy,2025-05-01,13.6,65,Moderate or heavy rain shower,2.200000000000001,15,False
+Dubai,2025-05-07,29.1,57,Sunny,2025-05-01,31.4,42,Sunny,-2.299999999999997,15,True
+Singapore,2025-05-07,29.1,73,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,1.4000000000000021,-3,False
+New York,2025-05-08,17.7,86,Patchy rain possible,2025-05-01,14.5,56,Cloudy,3.1999999999999993,30,False
+London,2025-05-08,11.5,65,Cloudy,2025-05-01,20.1,60,Overcast,-8.600000000000001,5,False
+Mumbai,2025-05-08,27.9,69,Heavy rain at times,2025-05-01,29.8,66,Sunny,-1.9000000000000021,3,False
+Tokyo,2025-05-08,17.1,51,Overcast,2025-05-01,17.4,63,Cloudy,-0.29999999999999716,-12,False
+Sydney,2025-05-08,16.9,64,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.7999999999999972,-4,True
+Paris,2025-05-08,12.9,61,Patchy rain possible,2025-05-01,21.7,57,Overcast,-8.799999999999999,4,False
+Toronto,2025-05-08,8.0,77,Overcast,2025-05-01,6.9,83,Moderate or heavy rain shower,1.0999999999999996,-6,False
+Cape Town,2025-05-08,15.6,77,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,2.0,12,False
+Dubai,2025-05-08,28.2,58,Sunny,2025-05-01,31.4,42,Sunny,-3.1999999999999993,16,True
+Singapore,2025-05-08,28.9,72,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,1.1999999999999993,-4,False
+New York,2025-05-09,13.5,96,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,-1.0,40,False
+London,2025-05-09,12.5,58,Sunny,2025-05-01,20.1,60,Overcast,-7.600000000000001,-2,False
+Mumbai,2025-05-09,28.5,68,Moderate rain at times,2025-05-01,29.8,66,Sunny,-1.3000000000000007,2,False
+Tokyo,2025-05-09,17.4,69,Patchy rain possible,2025-05-01,17.4,63,Cloudy,0.0,6,False
+Sydney,2025-05-09,16.2,68,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.09999999999999787,0,True
+Paris,2025-05-09,13.9,58,Overcast,2025-05-01,21.7,57,Overcast,-7.799999999999999,1,True
+Toronto,2025-05-09,10.1,64,Sunny,2025-05-01,6.9,83,Moderate or heavy rain shower,3.1999999999999993,-19,False
+Cape Town,2025-05-09,15.2,70,Overcast,2025-05-01,13.6,65,Moderate or heavy rain shower,1.5999999999999996,5,False
+Dubai,2025-05-09,27.8,60,Sunny,2025-05-01,31.4,42,Sunny,-3.599999999999998,18,True
+Singapore,2025-05-09,28.6,73,Moderate rain at times,2025-05-01,27.7,76,Heavy rain at times,0.9000000000000021,-3,False
+New York,2025-05-10,15.6,66,Cloudy,2025-05-01,14.5,56,Cloudy,1.0999999999999996,10,True
+London,2025-05-10,15.2,58,Sunny,2025-05-01,20.1,60,Overcast,-4.900000000000002,-2,False
+Mumbai,2025-05-10,28.9,69,Patchy rain possible,2025-05-01,29.8,66,Sunny,-0.9000000000000021,3,False
+Tokyo,2025-05-10,18.6,87,Moderate rain at times,2025-05-01,17.4,63,Cloudy,1.2000000000000028,24,False
+Sydney,2025-05-10,16.7,64,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,0.5999999999999979,-4,True
+Paris,2025-05-10,16.0,59,Overcast,2025-05-01,21.7,57,Overcast,-5.699999999999999,2,True
+Toronto,2025-05-10,11.9,62,Overcast,2025-05-01,6.9,83,Moderate or heavy rain shower,5.0,-21,False
+Cape Town,2025-05-10,14.9,76,Moderate or heavy rain shower,2025-05-01,13.6,65,Moderate or heavy rain shower,1.3000000000000007,11,True
+Dubai,2025-05-10,28.3,61,Sunny,2025-05-01,31.4,42,Sunny,-3.099999999999998,19,True
+Singapore,2025-05-10,29.1,73,Heavy rain at times,2025-05-01,27.7,76,Heavy rain at times,1.4000000000000021,-3,True
+New York,2025-05-11,17.5,53,Sunny,2025-05-01,14.5,56,Cloudy,3.0,-3,False
+London,2025-05-11,17.2,63,Overcast,2025-05-01,20.1,60,Overcast,-2.900000000000002,3,True
+Mumbai,2025-05-11,29.2,69,Patchy rain possible,2025-05-01,29.8,66,Sunny,-0.6000000000000014,3,False
+Tokyo,2025-05-11,20.3,65,Partly cloudy,2025-05-01,17.4,63,Cloudy,2.900000000000002,2,False
+Sydney,2025-05-11,17.7,72,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,1.5999999999999979,4,True
+Paris,2025-05-11,17.4,67,Heavy rain at times,2025-05-01,21.7,57,Overcast,-4.300000000000001,10,False
+Toronto,2025-05-11,9.9,54,Sunny,2025-05-01,6.9,83,Moderate or heavy rain shower,3.0,-29,False
+Cape Town,2025-05-11,13.6,72,Patchy rain possible,2025-05-01,13.6,65,Moderate or heavy rain shower,0.0,7,False
+Dubai,2025-05-11,30.2,54,Sunny,2025-05-01,31.4,42,Sunny,-1.1999999999999993,12,True
+Singapore,2025-05-11,28.8,74,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,1.1000000000000014,-2,False
+New York,2025-05-12,16.0,59,Partly cloudy,2025-05-01,14.5,56,Cloudy,1.5,3,False
+London,2025-05-12,17.3,75,Moderate or heavy rain shower,2025-05-01,20.1,60,Overcast,-2.8000000000000007,15,False
+Mumbai,2025-05-12,30.1,68,Patchy rain possible,2025-05-01,29.8,66,Sunny,0.3000000000000007,2,False
+Tokyo,2025-05-12,17.8,70,Moderate or heavy rain shower,2025-05-01,17.4,63,Cloudy,0.40000000000000213,7,False
+Sydney,2025-05-12,18.3,79,Moderate or heavy rain shower,2025-05-01,16.1,68,Patchy rain possible,2.1999999999999993,11,False
+Paris,2025-05-12,15.7,73,Patchy rain possible,2025-05-01,21.7,57,Overcast,-6.0,16,False
+Toronto,2025-05-12,13.6,60,Sunny,2025-05-01,6.9,83,Moderate or heavy rain shower,6.699999999999999,-23,False
+Cape Town,2025-05-12,14.6,67,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,1.0,2,False
+Dubai,2025-05-12,31.4,50,Sunny,2025-05-01,31.4,42,Sunny,0.0,8,True
+Singapore,2025-05-12,28.7,75,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,1.0,-1,False
+New York,2025-05-13,16.3,93,Patchy rain possible,2025-05-01,14.5,56,Cloudy,1.8000000000000007,37,False
+London,2025-05-13,16.9,64,Sunny,2025-05-01,20.1,60,Overcast,-3.200000000000003,4,False
+Mumbai,2025-05-13,30.3,69,Moderate rain at times,2025-05-01,29.8,66,Sunny,0.5,3,False
+Tokyo,2025-05-13,18.9,61,Cloudy,2025-05-01,17.4,63,Cloudy,1.5,-2,True
+Sydney,2025-05-13,18.2,77,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,2.099999999999998,9,True
+Paris,2025-05-13,16.0,69,Patchy rain possible,2025-05-01,21.7,57,Overcast,-5.699999999999999,12,False
+Toronto,2025-05-13,14.3,91,Moderate rain at times,2025-05-01,6.9,83,Moderate or heavy rain shower,7.4,8,False
+Cape Town,2025-05-13,16.2,63,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,2.5999999999999996,-2,False
+Dubai,2025-05-13,32.7,40,Sunny,2025-05-01,31.4,42,Sunny,1.3000000000000043,-2,True
+Singapore,2025-05-13,28.3,74,Moderate or heavy rain shower,2025-05-01,27.7,76,Heavy rain at times,0.6000000000000014,-2,False
+New York,2025-05-14,14.9,96,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,0.40000000000000036,40,False
+London,2025-05-14,15.5,57,Partly cloudy,2025-05-01,20.1,60,Overcast,-4.600000000000001,-3,False
+Mumbai,2025-05-14,30.1,69,Moderate rain at times,2025-05-01,29.8,66,Sunny,0.3000000000000007,3,False
+Tokyo,2025-05-14,19.5,63,Overcast,2025-05-01,17.4,63,Cloudy,2.1000000000000014,0,False
+Sydney,2025-05-14,18.1,75,Partly cloudy,2025-05-01,16.1,68,Patchy rain possible,2.0,7,False
+Paris,2025-05-14,17.8,62,Patchy rain possible,2025-05-01,21.7,57,Overcast,-3.8999999999999986,5,False
+Toronto,2025-05-14,13.3,90,Heavy rain at times,2025-05-01,6.9,83,Moderate or heavy rain shower,6.4,7,False
+Cape Town,2025-05-14,15.7,75,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,2.0999999999999996,10,False
+Dubai,2025-05-14,32.6,41,Sunny,2025-05-01,31.4,42,Sunny,1.2000000000000028,-1,True
+Singapore,2025-05-14,28.4,77,Cloudy,2025-05-01,27.7,76,Heavy rain at times,0.6999999999999993,1,False
+New York,2025-05-15,17.0,93,Moderate or heavy rain shower,2025-05-01,14.5,56,Cloudy,2.5,37,False
+London,2025-05-15,11.4,71,Overcast,2025-05-01,20.1,60,Overcast,-8.700000000000001,11,True
+Mumbai,2025-05-15,30.4,70,Moderate rain at times,2025-05-01,29.8,66,Sunny,0.5999999999999979,4,False
+Tokyo,2025-05-15,20.3,62,Overcast,2025-05-01,17.4,63,Cloudy,2.900000000000002,-1,False
+Sydney,2025-05-15,18.1,79,Heavy rain at times,2025-05-01,16.1,68,Patchy rain possible,2.0,11,False
+Paris,2025-05-15,13.6,60,Cloudy,2025-05-01,21.7,57,Overcast,-8.1,3,False
+Toronto,2025-05-15,13.7,92,Overcast,2025-05-01,6.9,83,Moderate or heavy rain shower,6.799999999999999,9,False
+Cape Town,2025-05-15,18.0,49,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,4.4,-16,False
+Dubai,2025-05-15,32.4,40,Sunny,2025-05-01,31.4,42,Sunny,1.0,-2,True
+Singapore,2025-05-15,28.4,71,Patchy rain possible,2025-05-01,27.7,76,Heavy rain at times,0.6999999999999993,-5,False
+New York,2025-05-16,18.6,91,Overcast,2025-05-01,14.5,56,Cloudy,4.100000000000001,35,False
+London,2025-05-16,13.2,61,Sunny,2025-05-01,20.1,60,Overcast,-6.900000000000002,1,False
+Mumbai,2025-05-16,29.8,73,Patchy rain possible,2025-05-01,29.8,66,Sunny,0.0,7,False
+Tokyo,2025-05-16,21.4,62,Partly cloudy,2025-05-01,17.4,63,Cloudy,4.0,-1,False
+Sydney,2025-05-16,17.4,82,Light rain shower,2025-05-01,16.1,68,Patchy rain possible,1.2999999999999972,14,False
+Paris,2025-05-16,14.2,54,Sunny,2025-05-01,21.7,57,Overcast,-7.5,-3,False
+Toronto,2025-05-16,15.1,86,Moderate rain,2025-05-01,6.9,83,Moderate or heavy rain shower,8.2,3,False
+Cape Town,2025-05-16,21.4,38,Cloudy,2025-05-01,13.6,65,Moderate or heavy rain shower,7.799999999999999,-27,False
+Dubai,2025-05-16,30.3,57,Sunny,2025-05-01,31.4,42,Sunny,-1.0999999999999979,15,True
+Singapore,2025-05-16,29.1,74,Patchy rain possible,2025-05-01,27.7,76,Heavy rain at times,1.4000000000000021,-2,False
+New York,2025-05-17,19.0,94,Fog,2025-05-01,14.5,56,Cloudy,4.5,38,False
+London,2025-05-17,14.1,61,Overcast,2025-05-01,20.1,60,Overcast,-6.000000000000002,1,True
+Mumbai,2025-05-17,29.7,72,Thundery outbreaks possible,2025-05-01,29.8,66,Sunny,-0.10000000000000142,6,False
+Tokyo,2025-05-17,20.2,84,Light rain,2025-05-01,17.4,63,Cloudy,2.8000000000000007,21,False
+Sydney,2025-05-17,16.8,82,Light rain shower,2025-05-01,16.1,68,Patchy rain possible,0.6999999999999993,14,False
+Paris,2025-05-17,13.6,62,Partly cloudy,2025-05-01,21.7,57,Overcast,-8.1,5,False
+Toronto,2025-05-17,14.4,82,Light rain shower,2025-05-01,6.9,83,Moderate or heavy rain shower,7.5,-1,False
+Cape Town,2025-05-17,18.5,67,Overcast,2025-05-01,13.6,65,Moderate or heavy rain shower,4.9,2,False
+Dubai,2025-05-17,29.4,67,Sunny,2025-05-01,31.4,42,Sunny,-2.0,25,True
+Singapore,2025-05-17,29.3,71,Patchy rain possible,2025-05-01,27.7,76,Heavy rain at times,1.6000000000000014,-5,False
+New York,2025-05-18,17.6,67,Cloudy,2025-05-01,14.5,56,Cloudy,3.1000000000000014,11,True
+London,2025-05-18,14.0,60,Partly cloudy,2025-05-01,20.1,60,Overcast,-6.100000000000001,0,False
+Mumbai,2025-05-18,29.7,69,Patchy rain possible,2025-05-01,29.8,66,Sunny,-0.10000000000000142,3,False
+Tokyo,2025-05-18,22.8,79,Overcast,2025-05-01,17.4,63,Cloudy,5.400000000000002,16,False
+Sydney,2025-05-18,15.5,76,Light rain shower,2025-05-01,16.1,68,Patchy rain possible,-0.6000000000000014,8,False
+Paris,2025-05-18,15.1,59,Sunny,2025-05-01,21.7,57,Overcast,-6.6,2,False
+Toronto,2025-05-18,11.6,74,Partly cloudy,2025-05-01,6.9,83,Moderate or heavy rain shower,4.699999999999999,-9,False
+Cape Town,2025-05-18,18.9,57,Sunny,2025-05-01,13.6,65,Moderate or heavy rain shower,5.299999999999999,-8,False
+Dubai,2025-05-18,29.1,61,Sunny,2025-05-01,31.4,42,Sunny,-2.299999999999997,19,True
+Singapore,2025-05-18,29.2,74,Light rain shower,2025-05-01,27.7,76,Heavy rain at times,1.5,-2,False
+New York,2025-05-19,15.2,60,Sunny,2025-05-01,14.5,56,Cloudy,0.6999999999999993,4,False
+London,2025-05-19,13.9,58,Patchy rain possible,2025-05-01,20.1,60,Overcast,-6.200000000000001,-2,False
+Mumbai,2025-05-19,29.8,70,Patchy light drizzle,2025-05-01,29.8,66,Sunny,0.0,4,False
+Tokyo,2025-05-19,19.5,85,Light rain shower,2025-05-01,17.4,63,Cloudy,2.1000000000000014,22,False
+Sydney,2025-05-19,16.1,68,Light rain shower,2025-05-01,16.1,68,Patchy rain possible,0.0,0,False
+Paris,2025-05-19,15.8,60,Overcast,2025-05-01,21.7,57,Overcast,-5.899999999999999,3,True
+Toronto,2025-05-19,10.2,54,Partly cloudy,2025-05-01,6.9,83,Moderate or heavy rain shower,3.299999999999999,-29,False
+Cape Town,2025-05-19,16.0,81,Patchy rain possible,2025-05-01,13.6,65,Moderate or heavy rain shower,2.4000000000000004,16,False
+Dubai,2025-05-19,29.7,59,Sunny,2025-05-01,31.4,42,Sunny,-1.6999999999999993,17,True
+Singapore,2025-05-19,28.6,75,Light rain shower,2025-05-01,27.7,76,Heavy rain at times,0.9000000000000021,-1,False
+New York,2025-05-20,12.7,59,Cloudy,2025-05-01,14.5,56,Cloudy,-1.8000000000000007,3,True
+London,2025-05-20,15.0,55,Overcast,2025-05-01,20.1,60,Overcast,-5.100000000000001,-5,True
+Mumbai,2025-05-20,29.6,74,Moderate or heavy rain shower,2025-05-01,29.8,66,Sunny,-0.1999999999999993,8,False
+Tokyo,2025-05-20,23.2,66,Partly cloudy,2025-05-01,17.4,63,Cloudy,5.800000000000001,3,False
+Sydney,2025-05-20,17.5,66,Patchy rain possible,2025-05-01,16.1,68,Patchy rain possible,1.3999999999999986,-2,True
+Paris,2025-05-20,17.6,56,Partly cloudy,2025-05-01,21.7,57,Overcast,-4.099999999999998,-1,False
+Toronto,2025-05-20,10.2,54,Partly cloudy,2025-05-01,6.9,83,Moderate or heavy rain shower,3.299999999999999,-29,False
+Cape Town,2025-05-20,13.1,83,Moderate or heavy rain shower,2025-05-01,13.6,65,Moderate or heavy rain shower,-0.5,18,True
+Dubai,2025-05-20,30.8,56,Sunny,2025-05-01,31.4,42,Sunny,-0.5999999999999979,14,True
+Singapore,2025-05-20,28.4,76,Light rain shower,2025-05-01,27.7,76,Heavy rain at times,0.6999999999999993,0,False
