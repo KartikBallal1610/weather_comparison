@@ -1,6 +1,10 @@
 from utils.api_client import get_weather
 import pandas as pd
 from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+import seaborn as sns
+
 
 cities = ["New York", "London", "Mumbai", "Tokyo", "Sydney", "Paris", "Toronto", "Cape Town", "Dubai", "Singapore"]
 start_date = "2025-05-01"
@@ -60,3 +64,5 @@ df_merged["Condition_Match"] = df_merged["Condition_Actual"] == df_merged["Condi
 
 df_merged.to_csv("output/weather_report.csv", index=False)
 print("✅ Report generated at: output/weather_report.csv")
+
+
